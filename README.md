@@ -61,4 +61,4 @@ Lead Input → Data Fetch → AI Analysis → Decision Engine →
    → Qualified → Route to Team → CRM
    → Not Qualified → Auto Email Response
 
-![Workflow](assets/workflow-main.png)
+![Workflow](assets/workflow-main.jpeg)
